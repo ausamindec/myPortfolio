@@ -15,4 +15,6 @@ The website is available here
 
 ### Mobile view of myPortfolio Application
 
-![Mobile View of Resume](./assets/images/MobileView.gif)
+<!-- ![Mobile View of Resume](./assets/images/MobileView.gif) -->
+
+<img class= "MobileView" src="./assets/images/MobileView.gif" width="500" height="800"/>
